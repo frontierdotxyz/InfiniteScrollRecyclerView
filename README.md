@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-
         app:scrollLayoutType="grid" />
 ```
 
-https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-9a42-43050b57d26c.mp4
+https://user-images.githubusercontent.com/73110189/139424788-c2fdfbdc-e1d5-439c-8723-c0492f9d89b0.mp4
 
 **In Activity or Fragment:**
 
