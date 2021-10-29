@@ -37,6 +37,9 @@ https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-
         android:layout_marginTop="16dp"
         app:scrollLayoutType="grid" />
 ```
+
+https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-9a42-43050b57d26c.mp4
+
 **In Activity or Fragment:**
 
 Simple :-)
