@@ -16,9 +16,6 @@ This view is inspired from iOS App store trending animation.
 
 **In XML: (Grid)**
 
-https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-9a42-43050b57d26c.mp4
-
-
 ```
     <com.frontier.infinitescrollrecyclerview.view.InfiniteAutoScrollRecyclerView
         android:id="@+id/recyclerView"
@@ -27,6 +24,8 @@ https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-
         android:layout_marginTop="16dp"
         app:scrollLayoutType="grid" />
 ```
+https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-9a42-43050b57d26c.mp4
+
 
 **In XML: (List)**
 
