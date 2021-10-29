@@ -16,7 +16,8 @@ This view is inspired from iOS App store trending animation.
 
 **In XML: (Grid)**
 
-https://user-images.githubusercontent.com/73110189/139419828-ac11ccd7-8462-4276-99e9-86a672e0e09d.mp4
+https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-9a42-43050b57d26c.mp4
+
 
 ```
     <com.frontier.infinitescrollrecyclerview.view.InfiniteAutoScrollRecyclerView
