@@ -1,10 +1,12 @@
 # InfiniteScrollRecyclerView
 
-Pros:
+**Pros:**
 
 1. Simple plug and play custom RecyclerView.
 2. Easy to use 
 3. Built on top of RecyclerView, hence it is performant as it works on the typical adapters and layout managers.
+
+**Credits:**
 
 This view is inspired from iOS App store trending animation.
 
