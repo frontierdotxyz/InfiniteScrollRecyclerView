@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        app:scrollLayoutType="grid" />
+        app:scrollLayoutType="list" />
 ```
 
 https://user-images.githubusercontent.com/73110189/139424788-c2fdfbdc-e1d5-439c-8723-c0492f9d89b0.mp4
