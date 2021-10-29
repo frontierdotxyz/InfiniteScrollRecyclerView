@@ -3,4 +3,5 @@
 This view is inspired from iOS App store trending animation.
 
 
-<img src="https://imgur.com/HWOZ4am" width="410" height="562" />
+![Appstore-video](https://user-images.githubusercontent.com/73110189/139418008-bf6838f3-c9ce-4959-be99-077c8568b848.gif)
+
