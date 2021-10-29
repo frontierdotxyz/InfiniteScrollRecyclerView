@@ -21,9 +21,8 @@ This view is inspired from iOS App store trending animation.
 ```
     <com.frontier.infinitescrollrecyclerview.view.InfiniteAutoScrollRecyclerView
         android:id="@+id/recyclerView"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         app:scrollLayoutType="grid" />
 ```
 https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-9a42-43050b57d26c.mp4
@@ -34,9 +33,8 @@ https://user-images.githubusercontent.com/73110189/139422808-453ac103-0939-4204-
 ```
     <com.frontier.infinitescrollrecyclerview.view.InfiniteAutoScrollRecyclerView
         android:id="@+id/recyclerView"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
         app:scrollLayoutType="list" />
 ```
 
