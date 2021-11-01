@@ -52,7 +52,7 @@ recyclerView.startScrolling("YOUR_DRAWABLE_ARRAY")
 
 **Apps using InfiniteScrollRecyclerView**
 
-https://user-images.githubusercontent.com/73110189/139576153-0d9154c1-b24b-4389-a880-8e8e5544ab17.mp4
+https://user-images.githubusercontent.com/73110189/139619108-2f6c8f1d-711f-43d8-9ba6-bbe47cee7614.mp4
 
 Google play store link: https://play.google.com/store/apps/details?id=com.frontierwallet
 
